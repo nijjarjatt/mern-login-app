@@ -1,0 +1,10 @@
+{
+    "name": "mern-login-app",
+    "version": "1.0.0",
+    "description": "mern-login-app",
+    "apidoc": {
+      "title": "mern-login-app",
+      "url" : "https://api.github.com/"
+    }
+  }
+  
