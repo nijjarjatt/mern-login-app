@@ -2,7 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const app = express();
 const router = express.Router();
-const cors = require('cors')
+const cors = require('cors');
 const db = mongoose.connection;
 
 const serverAddress = "mongodb://127.0.0.1:27017/login";
